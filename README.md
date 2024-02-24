@@ -14,7 +14,6 @@ I am currently pursuing a major in Computer Science, and my professional journey
 -  Co-Chairpserson @DjsceSynapse
 - First Runner up at LOC 5.0
 - Top 12 at Codeshastra 9.0
-- Top 10 at HackX '23
 
 ## 💻 Tech Stack:
 
