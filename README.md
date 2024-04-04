@@ -13,7 +13,7 @@ I am currently pursuing a major in Computer Science, and my professional journey
 - Bajaj HackRx 4.0 Winner
 -  Co-Chairpserson @DjsceSynapse
 - First Runner up at LOC 5.0
-- Top 12 at Codeshastra 9.0
+- Top 80 Unstoppable E-School Leaders 2024 (Unstop)
 
 ## 💻 Tech Stack:
 
