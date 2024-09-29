@@ -32,6 +32,12 @@ I am currently pursuing a major in Computer Science, and my professional journey
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arjun-254&theme=tokyonight)
 
+<h1 align="center">  Contributions ✨</h1>
+<p align="center">
+ <a href="https://git.io/streak-stats" align="middle">
+    <img src="https://streak-stats.demolab.com?user=Arjun-254&theme=transparent&border_radius=5.9&date_format=j%20M%5B%20Y%5D&&card_width=1000"">
+  </a>
+
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Arjun-254&theme=onedark)](https://github.com/Arjun-254/github-profile-trophy)
 
