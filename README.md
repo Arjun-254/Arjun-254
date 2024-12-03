@@ -11,7 +11,7 @@ I am currently pursuing a major in Computer Science, and my professional journey
 ## 🥇 Achievements:
 - SIH 2023 Winner
 - Bajaj HackRx 4.0 Winner
-- Amazon ML Challenge Rank 4
+- Amazon ML Challenge All India Rank 4
 - Top 50 Samsung Solve For Tomorrow 2024
 - Co-Chairpserson @DjsceSynapse
 - First Runner up at LOC 5.0
