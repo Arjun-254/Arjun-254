@@ -3,7 +3,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&background=952FFF00&width=435&lines=A+Passionate+CS+Student;)](https://git.io/typing-svg) !-->
 
 
-I am currently pursuing a major in Computer Science, and my professional journey includes a role as a SDE intern at HDFC Securities. In addition to my academic pursuits, I bring valuable research experience to the table. My enthusiasm lies in the realm of Web and Machine Learning development, and I experience in creating innovative NLP and Time-series based Machine Learning projects.
+I am currently pursuing a major in Computer Science. In addition to my academic pursuits, I bring valuable research and professional experience to the table. My enthusiasm lies in the realm of Web and Machine Learning development, and I experience in creating innovative NLP and Time-series based Machine Learning projects.
 
 
 
