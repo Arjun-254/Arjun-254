@@ -13,7 +13,7 @@ I am currently pursuing a major in Computer Science. In addition to my academic 
 - Bajaj HackRx 4.0 Winner
 - Amazon ML Challenge All India Rank 4
 - Top 100 Samsung Solve For Tomorrow 2024
-- Co-Chairpserson @DjsceSynapse
+- Former Co-Chairpserson @DjsceSynapse
 - First Runner up at LOC 5.0
 - Top 80 Unstoppable E-School Leaders 2024 (Unstop)
 
