@@ -3,7 +3,11 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&background=952FFF00&width=435&lines=A+Passionate+CS+Student;)](https://git.io/typing-svg) !-->
 
 
-I'm a Master's student in Artificial Intelligence at Carnegie Mellon University with a passion for machine learning, NLP, and software engineering. I enjoy building scalable AI solutions that solve real-world problems, from hierarchical LSTM models for complaint classification to computer vision systems for product cataloging and multilingual translation tools. My work spans research publications, research at the University of Illinois Urbana-Champaign, and internships at organizations like the Indian Railway Ministry and HDFC Securities, with recognition including All India Rank 4 in Amazon ML Challenge and wins in national hackathons. I'm passionate about developing production-ready AI systems that bridge the gap between cutting-edge research and real-world applications.
+I'm a Master's student in Artificial Intelligence at Carnegie Mellon University with a passion for machine learning, NLP, and software engineering. 
+
+I enjoy building scalable AI solutions that solve real-world problems, from hierarchical LSTM models for complaint classification to computer vision systems for product cataloging and multilingual translation tools. 
+
+My work spans research publications, research at the University of Illinois Urbana-Champaign, and internships at organizations like the Indian Railway Ministry and HDFC Securities, with recognition including All India Rank 4 in Amazon ML Challenge and wins in national hackathons. I'm passionate about developing production-ready AI systems that bridge the gap between cutting-edge research and real-world applications.
 
 
 
